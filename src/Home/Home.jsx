@@ -10,7 +10,7 @@ const menuItems = [
 ];
 
 function Home() {
-  const [menuOpen, setMenuOpen] = useState(true);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <main className="home">
