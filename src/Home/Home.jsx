@@ -16,7 +16,7 @@ function Home() {
     <main className="home">
       <section className="hero-panel" aria-label="TotemSec inicio">
         <header className="site-header">
-          <a className="brand" href="#inicio" aria-label="TotemSec">
+          <a className="brand" href="#inicio" aria-label="DU&RE">
             <span className="brand-mark" aria-hidden="true" />
             <span>TOTEMSEC</span>
           </a>
