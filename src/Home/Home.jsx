@@ -18,7 +18,7 @@ function Home() {
         <header className="site-header">
           <a className="brand" href="#inicio" aria-label="DU&RE">
             <span className="brand-mark" aria-hidden="true" />
-            <span>TOTEMSEC</span>
+            <span>DU&RE</span>
           </a>
 
           <button
